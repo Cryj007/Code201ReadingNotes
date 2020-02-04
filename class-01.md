@@ -143,6 +143,20 @@ Basic HTML structure
 
 #### Notes
 
+-no longer uses div element
+
+-if an older browser doesnt recognize HTML5 it will automatically treat it as inlin elements
+
+#### Vocab
+
+- HTML5 SHIV or HTML5 SHIM= simple JavaScript
+
+- CONDITIONAL COMMENT= checks if the browser version is less than IE9
+
+## HTML Chapter 18: “Process & Design” (pp.452-475)
+
+#### Notes
+
 -always create a wireframe, a basic outline of your webpage
 
 -a website should be designed for a target audience
@@ -217,11 +231,6 @@ contact details?
 - CARD SORTING= help to decide whsat info should go on each page
 
 - VISUAL HIERARCHY= helps visitors understand what you are trying to tell them
-
-
-## HTML Chapter 18: “Process & Design” (pp.452-475)
-
-
 
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
