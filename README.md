@@ -6,7 +6,7 @@ Right now there is not much, but as the lessons go by the more polished this pag
 
 ## Index
 1.
-[](_Read: 01 - Introductory HTML and JavaScript_)
+[https://cryj007.github.io/Code201ReadingNotes/class-01.md](Read: 01)
 
 2.
-[]()
+[https://cryj007.github.io/Code201ReadingNotes/class-02.md](Read: 02)
