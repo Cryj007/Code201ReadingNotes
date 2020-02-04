@@ -164,39 +164,58 @@ Basic HTML structure
 -some questions from the book to help find who that target audience is
 
 *Target Audience: individuals
+
 ● What is the age range of your target audience?
+
 ● Will your site appeal to more women or men? What is the mix?
+
 ● Which country do your visitors live in?
+
 ● Do they live in urban or rural areas?
+
 ● What is the average income of visitors?
+
 ● What level of education do they have?
+
 ● What is their marital or family status?
+
 ● What is their occupation?
+
 ● How many hours do they work per week?
+
 ● How often do they use the web?
+
 ● What kind of device do they use to access the web?
 
 *Target Audience: Companies
+
 ● What is the size of the company or relevant department?
+
 ● What is the position of people in the company who visit your site?
+
 ● Will visitors be using the site for themselves or for someone else?
+
 ● How large is the budget they control?
 
 -gotta ask why you have visitors
 
 *Key Motivations
+
 ● Are they looking for general
 entertainment or do they
 need to achieve a specific
 goal?
+
 ● If there is a specific goal, is
 it a personal or professional
 one?
+
 ● Do they see spending time on
 this activity as essential or a
 luxury?
 
 *Specific Goals
+
 ● Do they want general
 information / research (such
 as background on a topic /
@@ -204,19 +223,23 @@ company), or are they after
 something specific (such as a
 particular fact or information
 on a product)?
+
 ● Are they already familiar with
 the service or product that
 you offer or do they need to
 be introduced to it?
+
 ● Are they looking for time
 sensitive information, such as
 the latest news or updates on
 a particular topic?
+
 ● Do they want to discover
 information about a specific
 product or service to help
 them decide whether to buy
 it or not?
+
 ● Do they need to contact you?
 If so, can they visit in person
 (which might require opening
@@ -234,5 +257,54 @@ contact details?
 
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
+####Notes
 
+-scripts ar made up of instructionsso a computer can follow step by step
+
+-make sure to have a goal then tasks leading up to that goal
+
+-computers cannot learn they follow instructions
+
+-flowcharts have a key
+1. generic step
+2. event
+3. input or output
+4. decision
+
+-methods contain a bunch of instructions that together represent one task
+
+-how a browser sees a page
+1. browser recieves and HTML page
+2. browser creates a model of the page and stores it in memory
+3. shows the page on the screen
+
+-use script elemetn to tell browser it is coming across a script or a script is added into the document
+
+-don't forget to put javascript in its own file
+
+
+
+#### Vocab
+
+- VOCABULARY= the words the computer understands 
+
+- SYNTAX= how to put those words together to create instructions the computer can follow
+
+-DEBUGGING= discover what has gone wrong
+
+- OBJECT= each physical thing in the world
+
+- PROPERTIES= characteristics
+
+- EVENT= the computer saying something just happened
+
+- METHOD= represent how people or things interact with an object in the real world
+
+- DOCUMENT OBJECT= allows people to access and change what content users see on the page and respond to how they interact with it
+
+- HTML= content layer
+
+- CSS= presentation layer
+
+- JAVASCRIPT= behavior layer
 
