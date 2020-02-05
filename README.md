@@ -10,3 +10,6 @@ Right now there is not much, but as the lessons go by the more polished this pag
 
 2.
 [https://cryj007.github.io/Code201ReadingNotes/class-02.md](Read: 02)
+
+3.
+[https://cryj007.github.io/Code201ReadingNotes/class-03.md](Read: 03)
