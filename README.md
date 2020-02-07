@@ -16,3 +16,6 @@ Right now there is not much, but as the lessons go by the more polished this pag
 
 4.
 [https://cryj007.github.io/Code201ReadingNotes/class-04](Read: 04)
+
+5.
+[https://cryj007.github.io/Code201ReadingNotes/class-05](Read: 05)
