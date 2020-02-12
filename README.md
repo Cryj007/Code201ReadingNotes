@@ -21,7 +21,7 @@ Right now there is not much, but as the lessons go by the more polished this pag
 [https://cryj007.github.io/Code201ReadingNotes/class-05](Read: 05)
 
 6.
-[https://cryj007.github.io/Code201ReadingNotes/class-06](Read: 06)
+[https://cryj007.github.io/Code201ReadingNotes/class-o6](Read: 06)
 
 7.
 [https://cryj007.github.io/Code201ReadingNotes/class-07](Read: 07)
