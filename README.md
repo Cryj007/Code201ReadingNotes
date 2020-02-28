@@ -29,3 +29,23 @@ Right now there is not much, but as the lessons go by the more polished this pag
 8.
 [https://cryj007.github.io/Code201ReadingNotes/class-08](Read: 08)
 
+9.
+[https://cryj007.github.io/Code201ReadingNotes/class-09](Read: 09)
+
+10.
+[https://cryj007.github.io/Code201ReadingNotes/class-10](Read: 10)
+
+11.
+[https://cryj007.github.io/Code201ReadingNotes/class-11](Read: 11)
+
+12.
+[https://cryj007.github.io/Code201ReadingNotes/class-12](Read: 12)
+
+13.
+[https://cryj007.github.io/Code201ReadingNotes/class-13](Read: 13)
+
+14.
+[https://cryj007.github.io/Code201ReadingNotes/class-14](Read: 14)
+
+15.
+[https://cryj007.github.io/Code201ReadingNotes/class-15](Read: 15)
